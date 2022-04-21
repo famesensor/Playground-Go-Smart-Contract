@@ -5,9 +5,9 @@
 ## Run Application
 ```
 # Before start application
-- Installing Ganache: https://trufflesuite.com/ganache
-- Installing Solidity: https://docs.soliditylang.org/en/v0.8.2/installing-solidity.html#linux-packages
-- Installing Geth: https://geth.ethereum.org/docs/install-and-build/installing-geth
+- Ganache: https://trufflesuite.com/ganache
+- Solidity: https://docs.soliditylang.org/en/v0.8.2/installing-solidity.html#linux-packages
+- Geth: https://geth.ethereum.org/docs/install-and-build/installing-geth
 
 # Generate solity to bin
 - make build_contract_bin
